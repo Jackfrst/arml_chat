@@ -8,7 +8,7 @@ ARML Chatbot is an AI-powered conversational agent designed to assist users in v
 ARML Chatbot utilizes the capabilities of the GPT-3.5 language model to understand user queries and generate relevant responses. It can provide assistance and answer questions related to ARML development, implementation, and usage.
 </p>
 <p align="center">
-You can download the APK from git release <a href="https://objects.githubusercontent.com/github-production-release-asset-2e65be/664768139/0a3d860a-2b19-426a-928c-49e55ca6050e?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20230710%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230710T182551Z&X-Amz-Expires=300&X-Amz-Signature=2a54fdc192096aebaf04cc24b34f177fcec82aee7a5b5606929d9097ffc52959&X-Amz-SignedHeaders=host&actor_id=60434580&key_id=0&repo_id=664768139&response-content-disposition=attachment%3B%20filename%3Darml_tech_chatbot.apk&response-content-type=application%2Fvnd.android.package-archive">Link</a>
+You can download the APK from git release <a href="https://objects.githubusercontent.com/github-production-release-asset-2e65be/664768139/0a3d860a-2b19-426a-928c-49e55ca6050e?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20230710%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230710T182551Z&X-Amz-Expires=300&X-Amz-Signature=2a54fdc192096aebaf04cc24b34f177fcec82aee7a5b5606929d9097ffc52959&X-Amz-SignedHeaders=host&actor_id=60434580&key_id=0&repo_id=664768139&response-content-disposition=attachment%3B%20filename%3Darml_tech_chatbot.apk&response-content-type=application%2Fvnd.android.package-archive">[Download]</a>
 </p>
 
 
